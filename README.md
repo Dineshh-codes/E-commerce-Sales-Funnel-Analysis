@@ -28,8 +28,7 @@ This project analyzes a 5,000-user e-commerce sales funnel using BigQuery SQL, t
 | 01_funnel_conversion_rate | Overall funnel conversion rates across all 5 stages |
 | 02_funnel_by_source| Conversion rates broken down by traffic source |
 | 03_time_to_conversion| Average time taken from view to purchase |
-| 04_revenue_funnel
-| Revenue metrics including AOV and revenue per visitor |
+| 04_revenue_funnel| Revenue metrics including AOV and revenue per visitor |
 
 ## Tools Used
 - **BigQuery** — SQL querying and analysis
